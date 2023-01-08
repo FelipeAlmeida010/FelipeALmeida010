@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/FelipeAlmeida010">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVictor19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAlmeida010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVictor19&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>  
@@ -30,13 +30,12 @@ Here are some ideas to get you started:
 
 ## Main Stacks
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
-  <img alt="Antonio-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Antonio-ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Antonio-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Felipe-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Felipe-ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="Felipe-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img src="./assets/tailwind.png" alt="tailwindcss" width="60" />
   <img src="./assets/styled-components.svg" width="60" height="50" alt="styled components" />
   <img src="./assets/webpack.svg" alt="webpack" width="60" height="50">
-  <img alt="Antonio-SASS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img alt="Antonio-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Antonio-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
