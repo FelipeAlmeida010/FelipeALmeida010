@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm Felipe Joseph, FullStack Web Developer
+
+I'm Felipe Joseph, 
+
+FullStack Web Developer
 
 
 <!--
