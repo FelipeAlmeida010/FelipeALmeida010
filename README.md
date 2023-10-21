@@ -1,9 +1,8 @@
 ### Hi there 👋
-
+<p align="center" width="148%">
 I'm Felipe Joseph, 
-
 FullStack Web Developer
-
+</p>
 
 <p align="center">
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
