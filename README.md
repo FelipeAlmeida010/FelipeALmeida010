@@ -14,8 +14,8 @@ FullStack Web Developer
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-<a href="https://discord.com/users/getintorj_#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/getintorj" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://discord.com/users/e1_t15_felipejoseph" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/felipe-almeida-04" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
 
