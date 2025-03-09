@@ -1,7 +1,18 @@
 ### Hi there 👋
 <p align="center" width="148%">
 I'm Felipe Joseph, 
-FullStack Web Developer
+FullStack Web & Mobile Developer
+</p>
+
+<p align="center" width="148%">
+Look my portfólio for new job's freelancer     👇👇👇
+</p>
+
+
+<p align="center" width="148%">
+  <a href="https://felipealmeida010.github.io/codework-s-dev/">
+    👉 Click here to see my portfolio 👈
+  </a>
 </p>
 
 <p align="center">
